@@ -1,4 +1,6 @@
 (sym_lib_table
   (version 7)
   (lib (name "holyiot_21069")(type "KiCad")(uri "${KIPRJMOD}/lib/holyiot_21069.kicad_sym")(options "")(descr ""))
+  (lib (name "tja1461")(type "KiCad")(uri "${KIPRJMOD}/lib/tja1462/tja1461.kicad_sym")(options "")(descr ""))
+  (lib (name "MyDashLib")(type "KiCad")(uri "${KIPRJMOD}/lib/MyDashLib.kicad_sym")(options "")(descr ""))
 )
