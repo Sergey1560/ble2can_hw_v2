@@ -4,4 +4,5 @@
   (lib (name "ublox")(type "KiCad")(uri "${KIPRJMOD}/lib/ublox.pretty")(options "")(descr ""))
   (lib (name "logo")(type "KiCad")(uri "${KIPRJMOD}/lib/logo.pretty")(options "")(descr ""))
   (lib (name "footprints")(type "KiCad")(uri "${KIPRJMOD}/lib/tja1462/footprints.pretty")(options "")(descr ""))
+  (lib (name "inductor")(type "KiCad")(uri "${KIPRJMOD}/lib/inductor.pretty")(options "")(descr ""))
 )

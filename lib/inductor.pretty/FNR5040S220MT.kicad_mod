@@ -1,0 +1,108 @@
+(footprint "FNR5040S220MT"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at -3.5 -2.5 90)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "68f1d908-0ded-4b0e-a312-abee05af4378")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "FNR5040S220MT"
+		(at 0.5 4 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "0cd53f01-7117-453e-854d-209ab0511829")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "7bf01c96-87a5-4ca6-ba61-640b72a093ec")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "23e03aee-47e4-4572-b28f-53abe59a81da")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_rect
+		(start -2.5 -2.5)
+		(end 2.5 2.5)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "4539a9bd-b865-4b41-94ca-57e92cc036af")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 6 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "09384925-ce96-4f6b-b32e-db6ea272b701")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd roundrect
+		(at 0 1.875)
+		(size 4.2 1.4)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.25)
+		(thermal_bridge_angle 45)
+		(uuid "ba1a5c9a-62ef-4aff-bc4e-da579b313f87")
+	)
+	(pad "2" smd roundrect
+		(at 0 -1.875)
+		(size 4.2 1.4)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.25)
+		(thermal_bridge_angle 45)
+		(uuid "2c9a3c2d-1c22-454e-baee-a5dc209a09f3")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/3d/fnr5040s.STEP"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 90)
+		)
+	)
+)

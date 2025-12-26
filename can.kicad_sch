@@ -2299,7 +2299,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "08b73732-a8d4-433b-bed4-af5b60e6a499")
-		(property "Reference" "Q602"
+		(property "Reference" "Q302"
 			(at 151.765 100.33 0)
 			(effects
 				(font
@@ -2368,7 +2368,7 @@
 		(instances
 			(project "CAN2GPIO2"
 				(path "/48fe87cd-0661-436a-93bb-f175c4d0f54e/6c759029-600a-4c3d-8c40-75cdb4e7f614"
-					(reference "Q602")
+					(reference "Q302")
 					(unit 1)
 				)
 			)
@@ -2396,7 +2396,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1502160f-be8d-4c7c-bc35-b8b4da33c409")
-		(property "Reference" "#PWR0602"
+		(property "Reference" "#PWR0301"
 			(at 52.07 96.52 0)
 			(effects
 				(font
@@ -2446,7 +2446,7 @@
 		(instances
 			(project "CAN2GPIO2"
 				(path "/48fe87cd-0661-436a-93bb-f175c4d0f54e/6c759029-600a-4c3d-8c40-75cdb4e7f614"
-					(reference "#PWR0602")
+					(reference "#PWR0301")
 					(unit 1)
 				)
 			)
@@ -2474,7 +2474,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "18661257-57d9-4f62-8178-36271b475b82")
-		(property "Reference" "R603"
+		(property "Reference" "R301"
 			(at 139.7 49.911 90)
 			(effects
 				(font
@@ -2535,7 +2535,7 @@
 		(instances
 			(project "CAN2GPIO2"
 				(path "/48fe87cd-0661-436a-93bb-f175c4d0f54e/6c759029-600a-4c3d-8c40-75cdb4e7f614"
-					(reference "R603")
+					(reference "R301")
 					(unit 1)
 				)
 			)
@@ -2563,7 +2563,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "19063698-c22b-4979-866a-50f3897a32d6")
-		(property "Reference" "J601"
+		(property "Reference" "J301"
 			(at 220.345 81.28 0)
 			(effects
 				(font
@@ -2614,7 +2614,7 @@
 		(instances
 			(project "CAN2GPIO2"
 				(path "/48fe87cd-0661-436a-93bb-f175c4d0f54e/6c759029-600a-4c3d-8c40-75cdb4e7f614"
-					(reference "J601")
+					(reference "J301")
 					(unit 1)
 				)
 			)
@@ -2641,7 +2641,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "27061f60-35ab-4bf8-b6c2-5b0debbe1d4f")
-		(property "Reference" "C603"
+		(property "Reference" "C303"
 			(at 152.781 114.427 0)
 			(effects
 				(font
@@ -2704,7 +2704,7 @@
 		(instances
 			(project "CAN2GPIO2"
 				(path "/48fe87cd-0661-436a-93bb-f175c4d0f54e/6c759029-600a-4c3d-8c40-75cdb4e7f614"
-					(reference "C603")
+					(reference "C303")
 					(unit 1)
 				)
 			)
@@ -2732,7 +2732,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "30d7aa8f-feb4-4801-b344-ef4d71efe649")
-		(property "Reference" "#PWR0301"
+		(property "Reference" "#PWR0302"
 			(at 69.85 81.28 0)
 			(effects
 				(font
@@ -2783,7 +2783,7 @@
 		(instances
 			(project "rc_ble"
 				(path "/48fe87cd-0661-436a-93bb-f175c4d0f54e/6c759029-600a-4c3d-8c40-75cdb4e7f614"
-					(reference "#PWR0301")
+					(reference "#PWR0302")
 					(unit 1)
 				)
 			)
@@ -2799,7 +2799,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "429140b8-0e23-45db-a6e3-36b3a1116719")
-		(property "Reference" "R604"
+		(property "Reference" "R304"
 			(at 156.845 90.17 0)
 			(effects
 				(font
@@ -2862,7 +2862,7 @@
 		(instances
 			(project "CAN2GPIO2"
 				(path "/48fe87cd-0661-436a-93bb-f175c4d0f54e/6c759029-600a-4c3d-8c40-75cdb4e7f614"
-					(reference "R604")
+					(reference "R304")
 					(unit 1)
 				)
 			)
@@ -2890,7 +2890,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4e75d8c1-0a22-46ee-8c4f-fd09e590af2f")
-		(property "Reference" "#PWR0605"
+		(property "Reference" "#PWR0306"
 			(at 160.02 127 0)
 			(effects
 				(font
@@ -2940,7 +2940,7 @@
 		(instances
 			(project "CAN2GPIO2"
 				(path "/48fe87cd-0661-436a-93bb-f175c4d0f54e/6c759029-600a-4c3d-8c40-75cdb4e7f614"
-					(reference "#PWR0605")
+					(reference "#PWR0306")
 					(unit 1)
 				)
 			)
@@ -2968,7 +2968,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "55bbcfbb-3dcb-42ff-a047-c6d55e57bfa2")
-		(property "Reference" "C601"
+		(property "Reference" "C302"
 			(at 114.3 102.8763 0)
 			(effects
 				(font
@@ -3031,7 +3031,7 @@
 		(instances
 			(project "CAN2GPIO2"
 				(path "/48fe87cd-0661-436a-93bb-f175c4d0f54e/6c759029-600a-4c3d-8c40-75cdb4e7f614"
-					(reference "C601")
+					(reference "C302")
 					(unit 1)
 				)
 			)
@@ -3059,7 +3059,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "58385f12-d546-41e7-b329-29f866bd7ab1")
-		(property "Reference" "#PWR0302"
+		(property "Reference" "#PWR0304"
 			(at 144.78 78.74 0)
 			(effects
 				(font
@@ -3110,7 +3110,7 @@
 		(instances
 			(project "rc_ble"
 				(path "/48fe87cd-0661-436a-93bb-f175c4d0f54e/6c759029-600a-4c3d-8c40-75cdb4e7f614"
-					(reference "#PWR0302")
+					(reference "#PWR0304")
 					(unit 1)
 				)
 			)
@@ -3126,7 +3126,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5871e369-086a-4cad-a7eb-9c2de247b74a")
-		(property "Reference" "#PWR0604"
+		(property "Reference" "#PWR0305"
 			(at 152.4 81.28 0)
 			(effects
 				(font
@@ -3177,7 +3177,7 @@
 		(instances
 			(project "CAN2GPIO2"
 				(path "/48fe87cd-0661-436a-93bb-f175c4d0f54e/6c759029-600a-4c3d-8c40-75cdb4e7f614"
-					(reference "#PWR0604")
+					(reference "#PWR0305")
 					(unit 1)
 				)
 			)
@@ -3205,7 +3205,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5df9a7cc-a37d-421a-b7f2-9d936b2b13cf")
-		(property "Reference" "R601"
+		(property "Reference" "R302"
 			(at 139.7 60.96 90)
 			(effects
 				(font
@@ -3266,7 +3266,7 @@
 		(instances
 			(project "CAN2GPIO2"
 				(path "/48fe87cd-0661-436a-93bb-f175c4d0f54e/6c759029-600a-4c3d-8c40-75cdb4e7f614"
-					(reference "R601")
+					(reference "R302")
 					(unit 1)
 				)
 			)
@@ -3294,7 +3294,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "600c66ac-49e2-445c-b9f3-2ba9400a2f72")
-		(property "Reference" "Q603"
+		(property "Reference" "Q303"
 			(at 177.8 100.33 0)
 			(effects
 				(font
@@ -3363,7 +3363,7 @@
 		(instances
 			(project "CAN2GPIO2"
 				(path "/48fe87cd-0661-436a-93bb-f175c4d0f54e/6c759029-600a-4c3d-8c40-75cdb4e7f614"
-					(reference "Q603")
+					(reference "Q303")
 					(unit 1)
 				)
 			)
@@ -3391,7 +3391,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "639cf579-89ab-45bd-b8cc-ca3a7964f1b3")
-		(property "Reference" "J602"
+		(property "Reference" "J302"
 			(at 219.71 85.09 0)
 			(effects
 				(font
@@ -3442,7 +3442,7 @@
 		(instances
 			(project "CAN2GPIO2"
 				(path "/48fe87cd-0661-436a-93bb-f175c4d0f54e/6c759029-600a-4c3d-8c40-75cdb4e7f614"
-					(reference "J602")
+					(reference "J302")
 					(unit 1)
 				)
 			)
@@ -3470,7 +3470,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "68680c23-d3a9-45a3-87a5-fc6ec2e956dd")
-		(property "Reference" "#PWR017"
+		(property "Reference" "#PWR0308"
 			(at 196.85 106.68 0)
 			(effects
 				(font
@@ -3526,7 +3526,7 @@
 			)
 			(project "can2gpio"
 				(path "/48fe87cd-0661-436a-93bb-f175c4d0f54e/6c759029-600a-4c3d-8c40-75cdb4e7f614"
-					(reference "#PWR017")
+					(reference "#PWR0308")
 					(unit 1)
 				)
 			)
@@ -3554,7 +3554,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6c243188-5ad0-45c4-99e4-a291f8719cf0")
-		(property "Reference" "#PWR0601"
+		(property "Reference" "#PWR0303"
 			(at 111.76 114.3 0)
 			(effects
 				(font
@@ -3604,7 +3604,7 @@
 		(instances
 			(project "CAN2GPIO2"
 				(path "/48fe87cd-0661-436a-93bb-f175c4d0f54e/6c759029-600a-4c3d-8c40-75cdb4e7f614"
-					(reference "#PWR0601")
+					(reference "#PWR0303")
 					(unit 1)
 				)
 			)
@@ -3632,7 +3632,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "837edc3b-6021-4d56-a44d-a0a16ea9ef3e")
-		(property "Reference" "R605"
+		(property "Reference" "R305"
 			(at 172.085 114.3 0)
 			(effects
 				(font
@@ -3695,7 +3695,7 @@
 		(instances
 			(project "CAN2GPIO2"
 				(path "/48fe87cd-0661-436a-93bb-f175c4d0f54e/6c759029-600a-4c3d-8c40-75cdb4e7f614"
-					(reference "R605")
+					(reference "R305")
 					(unit 1)
 				)
 			)
@@ -3723,7 +3723,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "97483675-d01f-49f3-8bb7-d4ffe5979b4e")
-		(property "Reference" "C602"
+		(property "Reference" "C301"
 			(at 54.61 85.0963 0)
 			(effects
 				(font
@@ -3786,7 +3786,7 @@
 		(instances
 			(project "CAN2GPIO2"
 				(path "/48fe87cd-0661-436a-93bb-f175c4d0f54e/6c759029-600a-4c3d-8c40-75cdb4e7f614"
-					(reference "C602")
+					(reference "C301")
 					(unit 1)
 				)
 			)
@@ -3814,7 +3814,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9aaac2c1-c653-4e64-9fe7-a94b75289f55")
-		(property "Reference" "#PWR0606"
+		(property "Reference" "#PWR0307"
 			(at 170.18 127 0)
 			(effects
 				(font
@@ -3864,7 +3864,7 @@
 		(instances
 			(project "CAN2GPIO2"
 				(path "/48fe87cd-0661-436a-93bb-f175c4d0f54e/6c759029-600a-4c3d-8c40-75cdb4e7f614"
-					(reference "#PWR0606")
+					(reference "#PWR0307")
 					(unit 1)
 				)
 			)
@@ -3891,7 +3891,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "a827dc9e-59b6-4002-a7f3-ec36b11c5030")
-		(property "Reference" "R602"
+		(property "Reference" "R303"
 			(at 145.415 69.85 0)
 			(effects
 				(font
@@ -3954,7 +3954,7 @@
 		(instances
 			(project "CAN2GPIO2"
 				(path "/48fe87cd-0661-436a-93bb-f175c4d0f54e/6c759029-600a-4c3d-8c40-75cdb4e7f614"
-					(reference "R602")
+					(reference "R303")
 					(unit 1)
 				)
 			)
@@ -4081,7 +4081,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "af840f06-d1d8-47e9-84f7-b8b2e52a4093")
-		(property "Reference" "D3"
+		(property "Reference" "D301"
 			(at 202.438 96.774 0)
 			(effects
 				(font
@@ -4154,7 +4154,7 @@
 			)
 			(project "can2gpio"
 				(path "/48fe87cd-0661-436a-93bb-f175c4d0f54e/6c759029-600a-4c3d-8c40-75cdb4e7f614"
-					(reference "D3")
+					(reference "D301")
 					(unit 1)
 				)
 			)
@@ -4182,7 +4182,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ce9357db-9fd9-49cb-abdf-c696819ae814")
-		(property "Reference" "R606"
+		(property "Reference" "R306"
 			(at 175.895 90.17 0)
 			(effects
 				(font
@@ -4245,7 +4245,7 @@
 		(instances
 			(project "CAN2GPIO2"
 				(path "/48fe87cd-0661-436a-93bb-f175c4d0f54e/6c759029-600a-4c3d-8c40-75cdb4e7f614"
-					(reference "R606")
+					(reference "R306")
 					(unit 1)
 				)
 			)
@@ -4273,7 +4273,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d26c0b2f-2417-45e5-8442-4a456b093cdc")
-		(property "Reference" "Q601"
+		(property "Reference" "Q301"
 			(at 158.75 66.04 90)
 			(effects
 				(font
@@ -4340,7 +4340,7 @@
 		(instances
 			(project "CAN2GPIO2"
 				(path "/48fe87cd-0661-436a-93bb-f175c4d0f54e/6c759029-600a-4c3d-8c40-75cdb4e7f614"
-					(reference "Q601")
+					(reference "Q301")
 					(unit 1)
 				)
 			)
