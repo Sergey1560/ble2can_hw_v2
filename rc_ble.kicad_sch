@@ -8428,7 +8428,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "12pF"
+		(property "Value" "8pF"
 			(at 45.339 83.5723 0)
 			(effects
 				(font
@@ -13477,7 +13477,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "12pF"
+		(property "Value" "8pF"
 			(at 21.082 84.074 0)
 			(effects
 				(font

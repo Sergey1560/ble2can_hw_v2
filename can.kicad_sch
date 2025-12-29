@@ -2650,7 +2650,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "4.7pF"
+		(property "Value" "10pF"
 			(at 152.781 116.713 0)
 			(effects
 				(font
