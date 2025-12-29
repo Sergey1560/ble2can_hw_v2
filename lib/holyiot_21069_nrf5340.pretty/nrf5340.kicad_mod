@@ -55,15 +55,26 @@
 	)
 	(attr smd)
 	(fp_rect
-		(start -0.68 -19.68)
+		(start -0.68 -15.68)
 		(end 14.21 0.71)
 		(stroke
 			(width 0.15)
-			(type default)
+			(type solid)
 		)
 		(fill no)
 		(layer "F.SilkS")
 		(uuid "2828fe2d-7d1d-4d3f-a8f7-402350a54b36")
+	)
+	(fp_rect
+		(start -0.68 -19.68)
+		(end 14.21 0.71)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "Dwgs.User")
+		(uuid "1502eb9d-b44c-4ffd-9361-882b672859d2")
 	)
 	(fp_text user "${REFERENCE}"
 		(at 12.63 3.91 0)

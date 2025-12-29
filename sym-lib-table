@@ -4,4 +4,5 @@
   (lib (name "tja1461")(type "KiCad")(uri "${KIPRJMOD}/lib/tja1462/tja1461.kicad_sym")(options "")(descr ""))
   (lib (name "MyDashLib")(type "KiCad")(uri "${KIPRJMOD}/lib/MyDashLib.kicad_sym")(options "")(descr ""))
   (lib (name "inductor")(type "KiCad")(uri "${KIPRJMOD}/lib/inductor.kicad_sym")(options "")(descr ""))
+  (lib (name "logo")(type "KiCad")(uri "${KIPRJMOD}/lib/logo.kicad_sym")(options "")(descr ""))
 )
